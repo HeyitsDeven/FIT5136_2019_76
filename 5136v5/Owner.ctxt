@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Owner
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Owner\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=newIfVaild\ newAccountName\ newPassword\ newEmail
+comment1.target=Owner(boolean,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=newEmail
+comment2.target=void\ setEmail(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getEmail()
+comment4.params=
+comment4.target=java.lang.String\ getDetail()
+numComments=5

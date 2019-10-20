@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=IO
+comment0.text=\n\ Write\ a\ description\ of\ class\ input\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=IO()
+comment10.params=list
+comment10.target=void\ saveQuotation(java.util.ArrayList)
+comment11.params=
+comment11.target=java.util.ArrayList\ readQuotation()
+comment2.params=filename\ string
+comment2.target=void\ save(java.lang.String,\ java.lang.String)
+comment3.params=filename
+comment3.target=java.util.ArrayList\ read(java.lang.String)
+comment4.params=list
+comment4.target=void\ saveCustomer(java.util.ArrayList)
+comment5.params=
+comment5.target=java.util.ArrayList\ readCustomer()
+comment6.params=list
+comment6.target=void\ saveOwner(java.util.ArrayList)
+comment7.params=
+comment7.target=java.util.ArrayList\ readOwner()
+comment8.params=list
+comment8.target=void\ saveHall(java.util.ArrayList)
+comment9.params=
+comment9.target=java.util.ArrayList\ readHall()
+numComments=12

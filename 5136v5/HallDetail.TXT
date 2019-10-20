@@ -1,0 +1,1 @@
+test hall,nice hall with garden,true,0.2,0.0,300.0,800.0,8,school avanue ,test2,1111.01.01,,0.0Hall1,A very beautiful and serene hall perfect for any kind of function,true,0.5,0.5,50.0,150.0,100,Carnegie,owner123,1111.01.01/1111.01.01/2019.04.04/,,0.0

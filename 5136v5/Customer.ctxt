@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Customer
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Customer\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=newIfVaild\ newAccountName\ newPassword\ newEmail\ newIfConcession
+comment1.target=Customer(boolean,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ boolean)
+comment2.params=newEmail
+comment2.target=void\ setEmail(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getEmail()
+comment4.params=newIfConcession
+comment4.target=void\ setIfConcession(boolean)
+comment5.params=
+comment5.target=boolean\ getIfConcession()
+comment6.params=
+comment6.target=java.lang.String\ getDetail()
+numComments=7
